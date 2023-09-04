@@ -1,0 +1,5 @@
+C:\tmp\projetos\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.csproj.AssemblyReference.cache
+C:\tmp\projetos\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\projetos\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.AssemblyInfoInputs.cache
+C:\tmp\projetos\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.AssemblyInfo.cs
+C:\tmp\projetos\ClassesAbstratas\ClassesAbstratas\obj\Debug\net7.0\ClassesAbstratas.csproj.CoreCompileInputs.cache
